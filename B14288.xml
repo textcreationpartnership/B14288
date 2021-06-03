@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The masque of augures With the seueral antimasques. Presented on Twelfe night.</title>
+            <author>Jonson, Ben, 1573?-1637.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14288</idno><idno type="EEBO-CITATION">99854564</idno>
+  <idno type="VID">177028</idno>
+  <idno type="EEBO-PROQUEST">2240913684</idno>
+  <idno type="STC">STC 14777</idno>
+  <idno type="STC">ESTC S119357</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854564e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 757:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The masque of augures With the seueral antimasques. Presented on Twelfe night.</title>
+                  <author>Jonson, Ben, 1573?-1637.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1621.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Ben Jonson.</note>
+                  <note>Partly in verse.</note>
+                  <note>The year on title page is given according to Lady Day dating.</note>
+                  <note>Place of publication from STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>One British Library copy has added note at end initialed: B.I.--STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Masques --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_notice">
+            <pb facs="tcp:177028:1"/>
+            <pb facs="tcp:177028:1"/>
+            <head>The Masque of Augures</head>
+            <head type="sub">Quarto 1621-2 C. 39. c.34. Ashely 9<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </head>
+            <p>The text of the masque is identical in both copies, but C. 39. c. 34 has on B4 ve<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> a final note of acknowledgements to Inigo Jones, Ferrabosco and Lanier. I know no other copy containing this note.</p>
+            <closer>
+               <dateline>
+                  <date>13 June, 1938</date>
+               </dateline>
+               <signed>Percy Simpson</signed>
+            </closer>
+         </div>
+         <div type="modern_notice">
+            <pb facs="tcp:177028:2"/>
+            <head>The Masque of Augures. 1621.</head>
+            <p>Gifford expressly laments the want of a quarto edition of this masque of Ben Jonson's. It is very rare. The only copy for sale for many years produced <abbr>L</abbr> 12 at Sotheby's two or three years ago.</p>
+            <p>C. 39. c. 34.</p>
+            <p>K▪ J▪ B.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:177028:2"/>
+            <p>THE MASQVE OF AVGVRES.</p>
+            <p>WITH THE SEVERAL <hi>Antimasques.</hi>
+            </p>
+            <p>Presented on Twelfe night.</p>
+            <p>1621.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dramatis_personae">
+            <pb facs="tcp:177028:3"/>
+            <pb facs="tcp:177028:3"/>
+            <stage>The first Antimasque hath <hi>for the Scene, The COVRT-BVTTRYHATCH.</hi>
+            </stage>
+            <p>The Presenters are from Saint KATHERINES.</p>
+            <list>
+               <item>
+                  <hi>NOTCH.</hi> A Brewers Clarke.</item>
+               <item>
+                  <hi>SLVG.</hi> A Lighter-man.</item>
+               <item>
+                  <hi>VAN-GOOSE.</hi> A rare Artist.</item>
+               <item>
+                  <hi>LADY.</hi> Ale-wife.</item>
+               <item>Her two Women.</item>
+               <item>Three dauncing Beares.</item>
+               <item>
+                  <hi>VRSON.</hi> The Beare-ward.</item>
+               <item>
+                  <hi>GROOME of the REVELS.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="masque">
+            <div type="part">
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>COme, now my head's in, Ile eu'n venter the whole. I ha seen the Lions ere now; and he that hath seene them, may see the King.</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>I thinke he may: but haue a care you goe not too high (neighbour NOTCH) least you chance to haue a Tally made of your pate, and be clawed with a cudgell. There is as much danger in going too neere the King, as the Lions.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>Whether? whether now <hi>Gamsters?</hi> what is the businesse? the affaire? stop I beseech you.</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>This must be an Officer, or nothing, he is so peart, and briefe in his demands! a prettie man! and a prettie man is a little o'this side nothing. Howsoeuer,
+<pb facs="tcp:177028:4"/>we must not be daunted now. I am sure I am, a greater man then he out of the Court, and I haue lost nothing of my size since I came into it.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>Hey-da! whats this! A hogshead of beere broke out of the Kings Buttry, or some <hi>Dutch</hi> hulke! whether are you bound? The wind is against you: you must backe: doe you know where you are?</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>Yes Sir, if we be not mistaken, wee are at the Court, and would be very glad to speak with some<g ref="char:EOLhyphen"/>thing of lesse authoritie, and more wit, that knowes a little, in the place.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOME.</speaker>
+                  <p>Sir, I know as little as any man in the place: speake, what is your businesse? I am an Of<g ref="char:EOLhyphen"/>ficer, GROOME of the REVELS; I may and must aske you.</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>Be not too mustie Sir; our desire is onely to know, whether the Kings Maiestie and the Court expect any Disguise here to night.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>Disguise! what meane you by that? do you thinke his Maiestie sits here to expect drunkards?</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>No, if he did, I beleeue you would sup<g ref="char:EOLhyphen"/>ply that place better, then you doe this. Disguise was the olde English word for a Masque Sir, before you were an Implement belonging to the REVELS.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>There is no such word in the Office now, I assure you Sir: I haue seru'd heere Man and Boy a prentiship or twaine, and I should know. But (by what name soeuer you call it) heere will be a Masque, and shall be a Masque, when you and the rest of your <hi>Com<g ref="char:EOLhyphen"/>rogues</hi> shall sit disguis'd in the stocks.</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>Sure, by your language, you were neuer meant for a Courtier, howsoeuer it hath been your ill fortune to bee taken out of the nest young: you are
+<pb facs="tcp:177028:4"/>some Constables Egge, some such Widgin of authori<g ref="char:EOLhyphen"/>tie, you are so easily offended! Our comming was to shew our loues, Sir, and to make a little merry with his Maiestie to night, and wee haue brought a Masque with vs, if his Maiestie had not been better prouided.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOME.</speaker>
+                  <p>Who you? you a Masque? why you stinke like so many bloat herrings newly taken out of the chimney! In the name of ignorance whence came you? or what are you? you haue beene hangd in the smoake sufficiently, that is smelt out already.</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>Sir, we doe come from among the Brew<g ref="char:EOLhyphen"/>houses in Saint KATHERINS, that's true, there you haue smoak'd vs (the Docke comfort your nostrils) and wee may haue liued in a mist there, and so mist our purpose: but for mine owne part, I haue brought my properties with me to expresse what I am, the keyes of my calling hang heere at my girdle; and this, the regi<g ref="char:EOLhyphen"/>ster booke of my function, shewes me no lesse then a Clerke at all points, and a Brewers Clerke, and a Brew<g ref="char:EOLhyphen"/>ers head-Clerke.</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>A man of account Sir! I cry you mercy.</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>I Sir, I knew him a fine Merchant, a Mer<g ref="char:EOLhyphen"/>chant of hops, till all hopt into the water.</p>
+               </sp>
+               <sp>
+                  <speaker>NOTCH.</speaker>
+                  <p>No more of that, what I haue bin, I haue bin: what I am, I am. I PETER NOTCH Clearke, hearing the CHRISTMAS Inuention was drawne dry at Court, and that neither the Kings POET, nor his ARCHITECT had wherewithall left to entertaine so much as a Baboone of qualitie, nor scarce the <hi>Welsh</hi> Embassador if hee should come there; out of my alle<g ref="char:EOLhyphen"/>geance to wit, drew in some other friends, that haue as it were presumed out of our owne naturals, to fill vp the <hi>Vacuum</hi> with some pretty presentation, which wee
+<pb facs="tcp:177028:5"/>haue addrest, and conuei'd hither in a lighter at the ge<g ref="char:EOLhyphen"/>neral charge, and landed at the back-doore of the But<g ref="char:EOLhyphen"/>tery, through my neighbour SLVGS credit there.</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>A poore Lighterman Sir, one that hath had the honour sometimes to lay in the Kings Beere there, and I assure you I heard it in no worse place, then the very Buttry, for a certaine, there would be no Masque, and from such as could command a Iacke of Beere two or three.</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>Dat is all true, exceeding true, de Inuentors be barren, lost, two, dre, vour mile, I know that from my selua: dey haue no ting, no ting van deir owne, but var dey take vrom de eard, or de zea, or de heauen, or de hell, or de restuan de vier elementen, de place a, dat be so common as de venche in de</hi> Burdello. <hi>Now, me vould bring in some daintie new ting, dat neuer vas, nor neuer sall be, in de</hi> rebus natura! <hi>dat has never van de</hi> mater, <hi>nor de</hi> vorme, <hi>nor de head, nor de voot, but is a</hi> mera deuisa <hi>of de braine</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>GROOM.</speaker>
+                  <p>Hey-da, what HANS FLVTTERKIN is this? what do's this <hi>Dutchman</hi> build, or talke of? Castles in the ayre?</p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>He is no <hi>Dutchman</hi> Sir, he is a <hi>Brittaine</hi> borne, but hath learned to misuse his owne tongue in trauell, and now speaks all languages in ill <hi>English.</hi> A rare Artist he is Sir, &amp; a Proiector of Masques. His proiect in ours, is, that wee should all come from the three <hi>dancing Beares,</hi> a famous Alehouse in Saint <hi>Katherines</hi> (you may hap know it Sir), hard by where the Priest fell in, which Alehouse is kept by a distrest Lady, whose name (for the honour of Knighthood) will not be knowne, yet shee is come in person, errant, to fill vp the aduenture with her two Women that draw drinke vnder her, Gentlewo<g ref="char:EOLhyphen"/>men borne, all three I assure you.</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>And were three of those Gentlewomen, that
+<pb facs="tcp:177028:5"/>should haue acted in that famous matter of <hi>Englands Ioy,</hi> in <hi>sixe hundred and three.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>LADY.</speaker>
+                  <p>What talke you of <hi>Englands Ioy,</hi> Gentlemen? you haue another matter in hand ywis, <hi>Englands Sport,</hi> if you can manage it. The poore Cattell yonder, are pas<g ref="char:EOLhyphen"/>sing away the time with a cheat loafe and a bumbard, how will you dispose of them?</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>Cattell? what Cattell do's she meane?</p>
+               </sp>
+               <sp>
+                  <speaker>LADY.</speaker>
+                  <p>No worse then the Kings Game I assure you: Beares of quality and fashion, right Beares, true Beares!</p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>A deuice, onely to expresse the place from whence we come (my Ladies house) for which we haue borrowed three very Beares, that (as her Ladiship afore<g ref="char:EOLhyphen"/>said sayes) are well bred, and can dance to present the Signe, and the Beareward to stand for the Signe-post.</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>That is prety: but are you sure you haue suffici<g ref="char:EOLhyphen"/>ent Beares for the purpose?</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>Very sufficient Beares, as any are in the ground: and can dance at first sight, and play their owne tunes, if need bee. IOHN VRSON the Beareward offers to play them with any Citie-Dancers, christned, for a ground measure.</p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>Marry, for lofty tricks, or dancing on the ropes, he will not vndertake: it is out of their element, he sayes. Sir, all our request is, since we are come, we may bee ad<g ref="char:EOLhyphen"/>mitted, if not for a Masque, for an Antick Masque: and as we shall deserue therein, we desire to be returned with credit to the Buttry, from whence we came, for reward; or to the Porters Lodge, for our punishment.</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>To be whipt with your Beares? Well, I could bee willing to venter a good word in behalfe of the Game, if I were assured the aforesaid Game would be cleanly, and not fright the Ladies.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:177028:6"/>
+                  <speaker>NOT.</speaker>
+                  <p>For that, Sir, the Bearward hath put in securi<g ref="char:EOLhyphen"/>tie, by warranting my Lady and her Women to dance the whole Changes with them in safety; and for their abusing the place, you shal not need to feare, for he hath giuen them a kind of diet-bread, to bind them, to their good behauiour.</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>Well, let them come: If you need one, Ile helpe you my selfe.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Dance.</head>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>How like you? how like you?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>GRO.</speaker>
+                  <p>
+                     <hi>Excellaunt.</hi> The Beares haue done learnedly, and sweetly.</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>Tis no ting, tis no ting, vill you see some ting? Ick sall bring in de groat</hi> Turkschen, <hi>met all zin</hi> Bashawes, <hi>and zin dirty towsand</hi> Yanitsaries, <hi>met all zin Whooren, Eunu<g ref="char:EOLhyphen"/>ken, all met an auder, de</hi> Sofie <hi>van</hi> Persia, <hi>de</hi> Tartar Cham, <hi>met de groat King of</hi> Mogull, <hi>and make deir men, and deir horse, and deir elephanten be seene fight in de ayre, and hee all killen, and aliuen! and no sush ting. And al dis, met de</hi> ars, <hi>van de</hi> Catropricks, <hi>by de refleshie van de glassen.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>O, he is an admirable Artist.</p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>And a halfe Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>But where will he place his glasses?</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>Fow, dat is all ean! as it be two, dree, vier, vife tou<g ref="char:EOLhyphen"/>sand mile of, Ick sall</hi> multipliren <hi>de</hi> vizioun, <hi>met an ander se<g ref="char:EOLhyphen"/>tret dat Ick heb. Spreck, vat vil you heben?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>Good Sir put him toot, bid him doe something that is impossible: he will vndertake it, I warrant you.</p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>I do not like the <hi>Mogull,</hi> nor the great <hi>Turke,</hi> nor the <hi>Tartar,</hi> their names are somwhat too big for the roome: marry if he could shew vs some Country-plaiers strolling about in seuerall shires, without licence from the office; that would please, I know whom.</p>
+               </sp>
+               <sp>
+                  <pb facs="tcp:177028:6"/>
+                  <speaker>NOT.</speaker>
+                  <p>Or some Welsh Pilgrims.</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>Pilgrim? Now you talke of de Pilgrim, it come in my head, Ick vill shew you all de whole braue Pilgrim o' de vorld: de Pilgrim dat go now, now, at de instant, two, dree, towsand mile to de great</hi> Mahomet, <hi>at de</hi> Mecha, <hi>or here, dere, euery where, make de fine Labyrints, and shew all de braue error in de vorld.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>SLVG.</speaker>
+                  <p>And shall we see it here?</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>Yau, here, here, here in dis roome, dis very roome: vel, vat is dat to you, if Ick do de ting? vat an Diuell, vera boten Deuill?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>Nay, good Sir be not angry.</p>
+               </sp>
+               <sp>
+                  <speaker>NOT.</speaker>
+                  <p>Tis a disease that followes all excellent men, they cannot gouerne their passions, but let him alone, trie him one bout.</p>
+               </sp>
+               <sp>
+                  <speaker>GR.</speaker>
+                  <p>I would try him, but what has all this to doe with our Masque?</p>
+               </sp>
+               <sp>
+                  <speaker>VAN.</speaker>
+                  <p>
+                     <hi>O Sir, all de better, vor an Antick-masque, de more absurd it be, and vrom de purpose, it be euer all de better. If it goe from de</hi> nature <hi>of de ting, it is de more</hi> art, <hi>for dere is</hi> Art, <hi>and dere is</hi> Nature; <hi>you shall see.</hi> Hochos-pochos. Fa<g ref="char:EOLhyphen"/>bros Palabros.</p>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The second Antimasque.</head>
+               <stage>Which is a perplex'd dance of straying, and deform'd Pil<g ref="char:EOLhyphen"/>grims, taking seuerall pathes, till with the opening of the light aboue, and breaking forth of <hi>APOLLO,</hi> they are all frighted away, and the Mayne Masque begins.</stage>
+               <stage>
+                  <hi>APOLLO</hi> descending sings.</stage>
+               <sp>
+                  <l>IT is no Dreame, you all doe wake and see:</l>
+                  <l>Behold, who comes! far-shooting PHOEBVS, he</l>
+                  <pb facs="tcp:177028:7"/>
+                  <l> That can both hurt, and heale; and with his voyce</l>
+                  <l>Reare Townes, and make Societies reioyce;</l>
+                  <l>That taught the <hi>Muses</hi> all their harmony;</l>
+                  <l>And men the tunefull art of <hi>Augury;</hi>
+                  </l>
+                  <l>APOLLO stoopes: and, when a God descends,</l>
+                  <l>May Mortals thinke he hath no vulgar ends.</l>
+                  <stage>Being neare the earth, hee calls these persons following, who come forth, as from their Tombes.</stage>
+                  <l>LINVS, and ORPHEVS, BRANCHVS, IDMON, all</l>
+                  <l>My sacred sonnes, rise, at your Fathers call,</l>
+                  <l>From your immortall graues, where sleepe, not death,</l>
+                  <l>Yet binds your powers.</l>
+               </sp>
+               <sp>
+                  <speaker>LINVS.</speaker>
+                  <l>Here.</l>
+               </sp>
+               <sp>
+                  <speaker>ORPHEVS.</speaker>
+                  <l>Here.</l>
+               </sp>
+               <sp>
+                  <speaker>BRANCHVS.</speaker>
+                  <l>What sacred breath</l>
+                  <l>Doth re-inspire vs!</l>
+               </sp>
+               <sp>
+                  <speaker>IDMON.</speaker>
+                  <l>Who is this we feele!</l>
+               </sp>
+               <sp>
+                  <speaker>PHOEMONOE.</speaker>
+                  <l>What heat creepes through me, as when burning steele</l>
+                  <l>Is dipt in water!</l>
+               </sp>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>I, PHOEMONOE,</l>
+                  <l>Thy Father PHAEBVS'S fury filleth thee;</l>
+                  <l>Confesse my Godhead: once againe I call,</l>
+                  <l>Let whole APOLLO enter in you all,</l>
+                  <pb facs="tcp:177028:7"/>
+                  <l> And follow me.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>We flye, we do not tread,</l>
+                  <l>The Gods doe vse to rauish whom they lead.</l>
+               </sp>
+               <stage>
+                  <hi>APOLLO,</hi> descended, shewes them where the King sits, and sings forward.</stage>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>Behold the loue and care of all the Gods,</l>
+                  <l>King of the <hi>Ocean,</hi> and the happie Iles,</l>
+                  <l>That whilst the world about him is at ods,</l>
+                  <l>Sits crowned Lord here of himself, and smiles.—</l>
+               </sp>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>To see the erring mazes of Mankind,</l>
+                  <l>Who seeke for that, doth punish them to find.</l>
+               </sp>
+               <stage>Then he aduanceth with them to the King.</stage>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>Prince of thy peace, see what it is to loue</l>
+                  <l>The powers aboue!</l>
+                  <l>IOVE hath commanded me</l>
+                  <l>To visit thee:</l>
+                  <l>And in thine honour with my musick reare</l>
+                  <l>A Colledge here</l>
+                  <l>Of tune-full <hi>Augnrs,</hi> whose diuining skill</l>
+                  <l>Shall waite thee still,</l>
+                  <l>Aud be the <hi>Heralds</hi> of his highest will.</l>
+                  <l>The worke is done,</l>
+                  <l>And I haue made their <hi>President</hi> thy Sonne.</l>
+                  <l>Great MARS too, on these nights,</l>
+                  <l>Hath added <hi>Salian</hi> rites.</l>
+                  <pb facs="tcp:177028:8"/>
+                  <l> Yond, yond, afarre,</l>
+                  <l>They closed in their Temple are,</l>
+                  <l>And each one guided by a starre.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>Haste, haste, to meete them, and as they aduance,</l>
+                  <l>Twixt euery dance,</l>
+                  <l>Let vs interpret their prophetick trance.</l>
+               </sp>
+               <stage>Here they fetch out the Masquers, and come before them with the Torch-bearers along the Stage, singing this full Song.</stage>
+               <sp>
+                  <speaker>APOLLO and CHORVS.</speaker>
+                  <l>Which way, and whence the lightning flew,</l>
+                  <l>Or how it burned, bright, and blew,</l>
+                  <l>Designe, and figure by your lights:</l>
+                  <l>Then forth, and shew the seuerall flights</l>
+                  <l>Your Birds haue made, or what the wing,</l>
+                  <l>Or voyce in <hi>Augurie</hi> doth bring.</l>
+                  <l>Which hand the <hi>Crow</hi> cry'd on, how high</l>
+                  <l>The <hi>Vultur,</hi> or the <hi>Erne</hi> did flie,</l>
+                  <l>What wing the <hi>Swan</hi> made, and the <hi>Doue,</hi>
+                  </l>
+                  <l>The <hi>Storke,</hi> and which did get aboue:</l>
+                  <l>Shew all the birds of food, or pray.</l>
+                  <l>But passe by the vnlucky <hi>Iay,</hi>
+                  </l>
+                  <l>The <hi>Night-Crow, Swallow,</hi> or the <hi>Kite,</hi>
+                  </l>
+                  <l>Let those haue neither rite,</l>
+                  <l>Nor part,</l>
+                  <l>In this nights art.</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Torch-Bearers Dance.</head>
+               <stage>After which the <hi>AVGVRS</hi> lay by their staues, and dance their Entry. Which done, <hi>APOLLO,</hi> and the rest interpret the Augurie.</stage>
+               <sp>
+                  <pb facs="tcp:177028:8"/>
+                  <speaker>APOLLO.</speaker>
+                  <l>The signes are lucky all, and right,</l>
+                  <l>There hath not bin a voyce, or flight</l>
+                  <l>Of ill presage.</l>
+               </sp>
+               <sp>
+                  <speaker>LINVS.</speaker>
+                  <l>The Bird that brings</l>
+                  <l>Her <hi>Augury</hi> alone to Kings,</l>
+                  <l>The <hi>Doue,</hi> hath flowne.</l>
+               </sp>
+               <sp>
+                  <speaker>ORPHEVS.</speaker>
+                  <l>And to thy peace</l>
+                  <l>Addes <hi>Fortunes,</hi> and the <hi>Fates</hi> increase.</l>
+               </sp>
+               <sp>
+                  <speaker>BRANCHVS.</speaker>
+                  <l>MINERVA'S <hi>Hernshaw,</hi> and her <hi>Owle</hi>
+                  </l>
+                  <l>Do both proclaime, thou shalt controle</l>
+                  <l>The course of things,</l>
+               </sp>
+               <sp>
+                  <speaker>IDMON.</speaker>
+                  <l>As now they be,</l>
+                  <l>With tumult carried:</l>
+               </sp>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>And liue free</l>
+                  <l>From hatred, faction, or the feare</l>
+                  <l>To blast the <hi>Oliue</hi> thou dost weare.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>More is behind which these doe long to showe,</l>
+                  <l>And what the Gods to so great vertue owe.</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Maine Dance.</head>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>Still, still the <hi>Auspice</hi> is so good</l>
+                  <l>We wish it were but vnderstood;</l>
+                  <l>It euen puts APOLLO</l>
+                  <l>To all his strengths of art to follow</l>
+                  <pb facs="tcp:177028:9"/>
+                  <l> The flights, and to diuine</l>
+                  <l>What's meant by euery signe.</l>
+                  <l>Thou canst not lesse be then the charge</l>
+                  <l>Of euery Deitie,</l>
+                  <l>That thus art left here to inlarge,</l>
+                  <l>And shield their pietie!</l>
+                  <l>Thy Neighbours at thy fortune long haue gaz'd,</l>
+                  <l>But at thy wisedome all doe stand amaz'd,</l>
+                  <l>And wish to be</l>
+                  <l>O'recome, or gouerned by thee!</l>
+                  <l>Safetie it selfe so sides thee where thou goest,</l>
+                  <l>And <hi>Fate</hi> still offers what thou couet'st most!</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Reuels.</head>
+               <stage>After which, <hi>APOLLO</hi> goes vp to the King, and sings.</stage>
+               <lg>
+                  <l>DOe not expect to heare of all</l>
+                  <l>Your good at once, least it forestall</l>
+                  <l>A sweetnesse would be new:</l>
+                  <l>Some things the <hi>Fates</hi> would haue conceal'd</l>
+                  <l>From vs the Gods, least being reueal'd</l>
+                  <l>Our powers should enuy you.</l>
+                  <l>It is enough your people learne</l>
+                  <l>The reuerence of your peace;</l>
+                  <l>As well as strangers doe discerne</l>
+                  <l>The glories, by th' increase:</l>
+                  <l>And that the princely AVGVR here, your Sonne,</l>
+                  <l>Doe by the Fathers lights his courses runne.</l>
+               </lg>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>Him shall you see triumphing ouer all</l>
+                  <l>Both foes, and vices: and your young, and tall</l>
+                  <l>Nephewes, his sonnes, grow vp in your embraces,</l>
+                  <l>To giue this Iland Princes, in long races.</l>
+               </sp>
+               <stage>
+                  <pb facs="tcp:177028:9"/> Here the Heauen opens, and <hi>IOVE,</hi> with the Senate of the Gods, is discouered, while <hi>APOLLO</hi> returnes to his seat, and ascending sings.</stage>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>See, heauen expecteth my returne,</l>
+                  <l>The forked fire begins to burne,</l>
+                  <l>IOVE beckons me to come.</l>
+               </sp>
+               <sp>
+                  <speaker>IOVE.</speaker>
+                  <l>Though PHOEBVS be the God of Arts,</l>
+                  <l>He must not take on him all parts:</l>
+                  <l>But leaue his Father some.</l>
+               </sp>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>My Arts are onely to obey,</l>
+               </sp>
+               <sp>
+                  <speaker>IOVE.</speaker>
+                  <l>And mine to sway.</l>
+                  <l>IOVE is that One, whom first, midst, last you call,</l>
+                  <l>The power that gouern's, and conserueth all;</l>
+                  <l>
+                     <hi>Earth, Sea,</hi> and <hi>Ayre</hi> are subiect to our checke,</l>
+                  <l>And <hi>Fate,</hi> with <hi>Heauen,</hi> moouing at our becke.</l>
+                  <l>Till IOVE it ratifie,</l>
+                  <l>It is no <hi>Augurie,</hi>
+                  </l>
+                  <l>Though vtter'd by the mouth of DESTINIE.</l>
+               </sp>
+               <sp>
+                  <speaker>APOLLO.</speaker>
+                  <l>Deare Father, giue the signe, and seale it then.</l>
+               </sp>
+               <sp>
+                  <speaker>
+                     <hi>The</hi> EARTH <hi>riseth.</hi>
+                  </speaker>
+                  <l>It is the suit of EARTH, and <hi>Men.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>IOVE.</speaker>
+                  <l>What doe these mortals craue without our wrong.</l>
+               </sp>
+               <sp>
+                  <speaker>EARTH <hi>with the rest.</hi>
+                  </speaker>
+                  <l>That IOVE will lend vs this our Soueraigne, long.</l>
+                  <l>Let our grand-children and not we</l>
+                  <l>His want, or absence euer see.</l>
+               </sp>
+               <sp>
+                  <pb facs="tcp:177028:10"/>
+                  <speaker>IOVE.</speaker>
+                  <l>Your wish is blest:</l>
+                  <l>IOVE knocks his chin against his brest,</l>
+                  <l>And firmes it with the rest.</l>
+               </sp>
+               <sp>
+                  <speaker>CHORVS.</speaker>
+                  <l>Sing then his fame, through all the orbes, in euen</l>
+                  <l>Proportions, rising still from <hi>Earth</hi> to <hi>Heauen:</hi>
+                  </l>
+                  <l>And of the lasting of it leaue to doubt,</l>
+                  <l>The power of Time shall neuer put that out.</l>
+               </sp>
+               <p>
+                  <hi>This done, the whole Scene shuts, and the Masquers dance their last dance.</hi>
+               </p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+         <div type="author_to_the_reader">
+            <p>For the expression of this, I must stand; The inuen<g ref="char:EOLhyphen"/>tion was diuided betwixt M<seg rend="sup">r</seg>. <hi>IONES,</hi>and mee. The <hi>SCENE,</hi> which your eye iudges, was wholly his, and worthy his place of the Kings <hi>Surueyour,</hi> and <hi>Architect,</hi> full of noble obseruation of Antiquitie, and high Presentment. The <hi>Musique</hi> compos'd by that excellent paire of Kinsemen, M<seg rend="sup">r</seg>. <hi>ALPHONSO FERRABOSCO</hi> and M<seg rend="sup">r</seg>. <hi>NICHOLAS LANIER.</hi>
+            </p>
+            <closer>
+               <signed>An sint Musis &amp; Apolline digna, penes vos esto. <hi>B. J.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:177028:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
